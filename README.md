@@ -7,4 +7,4 @@ First place solution for Yandex.Algorithm 2018 (ML Track)
 
 3-ensembling.ipynb : contains a LGBM ensembling model, used to generate the solution
 
-translate.ipynb: data augmentation through Google Translate
+4-translate.ipynb: data augmentation through Google Translate
